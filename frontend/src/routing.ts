@@ -1,6 +1,7 @@
 import HelloWorld from "./components/HelloWorld.vue";
 import {createRouter, createWebHistory} from "vue-router";
-import Person from "./components/Person.vue";
+import LocalPersons from "./components/LocalPersons.vue";
+import PlaceholderPersons from "./components/PlaceholderPersons.vue";
 
 const routes = [
     {
@@ -9,7 +10,11 @@ const routes = [
     },
     {
         path: "/person",
-        component: Person,
+        component: LocalPersons,
+    },
+    {
+        path: "/placeholder",
+        component: PlaceholderPersons,
     }
 ]
 

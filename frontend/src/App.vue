@@ -10,10 +10,11 @@
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <p>
+  <div class="links">
     <router-link to="/">Home</router-link>
-    <router-link to="/person">Person</router-link>
-  </p>
+    <router-link to="/person">Local Api</router-link>
+    <router-link to="/placeholder">Placeholder Api</router-link>
+  </div>
   <router-view />
 </template>
 
@@ -29,5 +30,10 @@
 }
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
+}
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 </style>
