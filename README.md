@@ -2,12 +2,14 @@
 
 ## Scope
 
-* Frontend ✅
-  * Typescript
-  * Vue
 * Backend ✅
   * Java
   * Spring Webflux
+  * gradle
+* Frontend ✅
+  * Typescript
+  * Vue3 composition api
+  * vite + npm
 * OpenApi ❌
 * OAuth2 client side with PKCE ❌
 * Client side rendering ✅
