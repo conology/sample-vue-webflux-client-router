@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/sample-vue-webflux-client-router.iml" filepath="$PROJECT_DIR$/.idea/sample-vue-webflux-client-router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webflux-bff.main.iml" filepath="$PROJECT_DIR$/.idea/modules/webflux-bff.main.iml" />
     </modules>
   </component>
 </project>

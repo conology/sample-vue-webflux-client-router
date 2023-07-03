@@ -3,7 +3,7 @@
 * Frontend ❌
   * Typescript
   * Vue
-* Backend ❌
+* Backend ✅
   * Java
   * Spring Webflux
 * OpenApi ❌
