@@ -7,5 +7,6 @@
   * Java
   * Spring Webflux
 * OpenApi ❌
+* OAuth2 client side with PKCE ❌
 * Client side rendering ✅
 * Client side routing ✅
