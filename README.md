@@ -1,11 +1,11 @@
 # Frontend Sample project with vue + webflux bff
 
-* Frontend ❌
+* Frontend ✅
   * Typescript
   * Vue
 * Backend ✅
   * Java
   * Spring Webflux
 * OpenApi ❌
-* Client side rendering ❌
-* Client side routing ❌
+* Client side rendering ✅
+* Client side routing ✅
